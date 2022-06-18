@@ -28,9 +28,9 @@ p{
 
 
  
-#rice,
-#beans,
-#fish{
+#ricez,
+#beansz,
+#fishz{
     position: absolute;
     border-color: black;
     border-style: solid;
@@ -46,18 +46,18 @@ p{
 
 
 
-#rice{
+#ricez{
    background-color: #be7d7d;
 }
 
 
-#beans{
+#beansz{
     background-color: #d33535;
  }
 
 
 
- #fish{
+ #fishz{
     background-color: #d4d66f;
  }
 
